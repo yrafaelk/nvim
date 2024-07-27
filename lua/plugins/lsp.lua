@@ -36,8 +36,8 @@ return {
                 "spectral",
                 "markdown_oxide",
                 "dockerls",
-		"docker_compose_language_service",
-		"bashls",
+                "docker_compose_language_service",
+                "bashls",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
